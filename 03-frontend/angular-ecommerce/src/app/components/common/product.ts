@@ -1,5 +1,7 @@
 export class Product {
   // @ts-ignore
+  id: number;
+  // @ts-ignore
   sku: string;
   // @ts-ignore
   name: string;
